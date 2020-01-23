@@ -7,13 +7,11 @@
 **Language**: 
 
         NodeJs
-
 **Frameworks**:
 
         Express
         Axios
         Socket.io
-
 **Data Base**: 
 
         MongoDB
