@@ -11,9 +11,7 @@
 **Frameworks**:
 
         Express
-
         Axios
-
         Socket.io
 
 **Data Base**: 
