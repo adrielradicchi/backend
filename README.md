@@ -5,21 +5,21 @@
 ##### Technologies used
  
 **Language**: 
-        &nbsp;
+
         *NodeJs
-        &nbsp;
-**Frameworks**: 
-        &nbsp;
-        *Express 
-        &nbsp;
-        *Axios 
-        &nbsp;
-        *Socket.io 
-        &nbsp;
+
+**Frameworks**:
+
+        *Express
+
+        *Axios
+
+        *Socket.io
+
 **Data Base**: 
-        &nbsp;
-        *MongoDB 
-        &nbsp;
+
+        *MongoDB
+        
 
 ##### You use this project 
 
