@@ -12,19 +12,17 @@
 
 ##### You use this project 
 
-First You'll clone this repo bofore from execute this project 
+1. You'll clone this repo bofore from execute this project 
 
 ``` git clone https:/github.com/adrielradicchi/backend.git ``` 
 
-Next Steps - 
-
-Just open the folder where the project is stored and execute this commands.
+2. Just open the folder where the project is stored and execute this commands.
 
 Obs: Before to executing this commands, You'll need install ``` Yarn``` and after installation, You can execute below commands. 
 
 ``` yarn install ```
 
-To execute this project 
+3. To execute this project 
 
 ``` yarn dev ```
 
