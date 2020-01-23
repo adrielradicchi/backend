@@ -6,20 +6,20 @@
  
 **Language**: 
 
-        *NodeJs
+        NodeJs
 
 **Frameworks**:
 
-        *Express
+        Express
 
-        *Axios
+        Axios
 
-        *Socket.io
+        Socket.io
 
 **Data Base**: 
 
-        *MongoDB
-        
+        MongoDB
+
 
 ##### You use this project 
 
