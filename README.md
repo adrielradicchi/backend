@@ -4,26 +4,30 @@
 
 ##### Technologies used
  
-**Language**: 
-
+**Language**:
+        ```
         NodeJs
+        ```
+
 **Frameworks**:
-
-        Express
-        Axios
+        ```
+        Express,
+        Axios,
         Socket.io
+        ```
+
 **Data Base**: 
-
+        ```
         MongoDB
+        ```
 
-
-##### You use this project 
+##### You use this project
 
 1. You'll clone this repo bofore from execute this project 
 
     ``` 
     git clone https:/github.com/adrielradicchi/backend.git 
-    ``` 
+    ```
 
 2. Just open the folder where the project is stored and execute this commands.
 
@@ -38,8 +42,6 @@
     yarn dev 
     ```
 
-    Now just to access 
-
-    ``` 
-    localhost:3333/devs
-    ```
+    Now just to open your camera of your smart phone, if You have a iPhone or if Android open read program QR Code to read the QR Code but before You need install on your smartphone the Expo, just open your app store and You find to Expo and install.
+    
+    And after You follow this steps You'll run app
